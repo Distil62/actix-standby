@@ -1,0 +1,4 @@
+/target
+pg_data
+# À réactiver en cas d'utilisation réel
+# .env
